@@ -1,5 +1,6 @@
 React Image Uploader test... from https://codeburst.io/react-image-upload-with-kittens-cc96430eaece  <-- NOT ME :)
 
+using https://cloudinary.com for image storage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
